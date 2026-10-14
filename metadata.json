@@ -1,0 +1,6 @@
+{
+  "name": "আঁচল Heritage Sarees - Royal Bengali Handloom Boutique",
+  "description": "An authentic Bangladeshi handloom boutique showcasing GI-certified Dhakai Jamdani, Royal Katan, Tussar silk, and heirloom sarees with artisan stories, interactive weaving zoom, bag checkout, and curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
